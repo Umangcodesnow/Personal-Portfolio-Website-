@@ -28,9 +28,10 @@ html{
 
 body {
 
-background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkQR47vW2OtMIPHdKfsPcQJU468Z0DKTOQtQ&usqp=CAU);
-background-repeat: no-repeat;
-background-size: cover;
+    background-image: url("https://wallpaperaccess.com/full/5454789.jpg");
+    height: 1px;
+    background-repeat: no-repeat;
+    background-size: cover;
 
 }
 /* all similar content styling codes */
