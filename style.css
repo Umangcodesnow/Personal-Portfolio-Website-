@@ -25,13 +25,20 @@ html{
 ::-webkit-scrollbar-thumb:hover {
     background: #555;
 }
+#roundimg{
+    position: absolute;
+    right: 10px;
+    top: 200px;
+    
+}
 
-body {
-
-    background-image: url("https://wallpaperaccess.com/full/5454789.jpg");
+ body {
     height: 1px;
-    background-repeat: no-repeat;
+    background-image: url("https://wallpaperaccess.com/full/5454789.jpg");
     background-size: cover;
+    background-repeat: no-repeat;
+    background-color: yellowgreen;
+    
 
 }
 /* all similar content styling codes */
