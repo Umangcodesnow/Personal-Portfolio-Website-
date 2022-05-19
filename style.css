@@ -33,14 +33,15 @@ html{
 }
 
  body {
-    height: 1px;
+    height:  15px;
     background-image: url("https://wallpaperaccess.com/full/5454789.jpg");
     background-size: cover;
     background-repeat: no-repeat;
-    background-color: yellowgreen;
-    
 
-}
+    background-color: goldenrod;
+ }   
+
+ 
 /* all similar content styling codes */
 section{
     padding: 100px 0;
@@ -180,7 +181,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("images/banner.jpg") no-repeat center;
+    background: url("") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
