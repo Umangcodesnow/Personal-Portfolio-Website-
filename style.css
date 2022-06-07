@@ -33,12 +33,12 @@ html{
 }
 
  body {
-    height:  15px;
-    background-image: url("https://wallpaperaccess.com/full/5454789.jpg");
+    background-image: url("https://wallpaperaccess.com/full/621874.jpg");
     background-size: cover;
     background-repeat: no-repeat;
-
-    background-color: goldenrod;
+    background-attachment: fixed;
+    background-position: center;
+    color: yellow;
  }   
 
  
@@ -231,7 +231,7 @@ section .title::after{
 
 /* about section styling */
 .about .title::after{
-    content: "who i am";
+    content: "And I am";
 }
 .about .about-content .left{
     width: 45%;
