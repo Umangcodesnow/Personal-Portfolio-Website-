@@ -29,7 +29,7 @@ html{
     position: absolute;
     right: 10px;
     top: 200px;
-    
+
 }
 
  body {
@@ -39,9 +39,9 @@ html{
     background-attachment: fixed;
     background-position: center;
     color: yellow;
- }   
+ }
 
- 
+
 /* all similar content styling codes */
 section{
     padding: 100px 0;
@@ -322,7 +322,7 @@ section .title::after{
 /* skills section styling */
 
 .skills .title::after{
-    content: "what i know";
+    content: "I Expertise in";
 }
 .skills .skills-content .column{
     width: calc(50% - 30px);
@@ -491,7 +491,7 @@ section .title::after{
     font-weight: 500;
 }
 .contact .contact-content .info .sub-title{
-    color: #333;
+    color: white;
 }
 .contact .right form .fields{
     display: flex;
@@ -560,7 +560,7 @@ footer{
     text-align: center;
 }
 footer span a{
-    color: crimson;
+    color: royalblue;
     text-decoration: none;
 }
 footer span a:hover{
